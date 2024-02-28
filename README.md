@@ -27,3 +27,14 @@ Para compilar el programa, se puede utilizar un compilador de C++ compatible con
 ```
 g++ -std=c++11 main.cpp -o report_generator
 ```
+
+
+Para ejecutar el programa, simplemente se debe ejecutar el archivo generado (`report_generator` en este caso) y seguir las instrucciones en pantalla para elegir el formato del informe a generar.
+
+Mejorar
+-------------------------------
+- Añadir más formatos de informe, como CSV, pbix, JSON, etc.
+- Permitir al usuario personalizar el contenido del informe, como agregar datos específicos.
+- Implementar una interfaz gráfica de usuario (GUI) para una mejor experiencia de usuario.
+
+
