@@ -1,5 +1,7 @@
 # Programa de Generación de Informes
+
 ==================================
+
 Este programa permite al usuario generar informes en diferentes formatos (PDF, Excel, HTML) utilizando el patrón Factory Method. El usuario puede elegir el formato del informe y el programa generará el informe correspondiente en el formato seleccionado.
 
 Uso
