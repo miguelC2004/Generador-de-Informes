@@ -24,4 +24,6 @@ El código está estructurado en varios archivos:
 Compilación y Ejecución
 ------------------------
 Para compilar el programa, se puede utilizar un compilador de C++ compatible con C++11 o superior. Por ejemplo, para compilar con g++, se puede usar el siguiente comando:
-
+```
+g++ -std=c++11 main.cpp -o report_generator
+```
