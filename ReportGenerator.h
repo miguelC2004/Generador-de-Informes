@@ -9,4 +9,4 @@ public:
     virtual void generateReport() = 0;
 };
 
-#endif // REPORT_GENERATOR_H
+#endif
